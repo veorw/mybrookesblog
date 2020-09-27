@@ -10,7 +10,7 @@ tags: null
 description: null
 show: true
 ---
-Wecome! My name is Verity and I am the writer, editor and all round creator of this blog. 
+Welcome! My name is Verity and I am the writer, editor and all round creator of this blog. 
 
 So before we continue, lets get some basic information out of the way.
 
