@@ -2,7 +2,7 @@
 layout: post
 title: Wham, Zap, Pow!
 date: 2020-10-06T14:57:08.209Z
-header_feature_image: ../uploads/screen-shot-2020-10-06-at-16.15.26.png
+header_feature_image: ../uploads/screen-shot-2020-10-06-at-16.19.40.png
 comments: true
 ---
 Comic book culture, especially that consisting of super heroes and villains, has been around in our lives for nearly a century. Whether it has been the companion on a long journey, or the comforting voice to help you to sleep, comic books are the bread and butter of many children's adolescence. There is something so familiar and distinct about its bright colours and eye-catching writing, the way the illustrations jump out of the page and seem to drag you further into the fantastically world of adventure.
