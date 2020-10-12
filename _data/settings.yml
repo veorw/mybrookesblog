@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Verity Hutton
 header_feature_image: ../uploads/last-supper-1024x512.jpg
 bannerheight: 20vmax
 logo: ../uploads/screen-shot-2020-10-12-at-15.19.10.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/screen-shot-2020-10-12-at-15.19.10.png
 gridlayout: false
 fixednavbar: false
 upzoom: true
