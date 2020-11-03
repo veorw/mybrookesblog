@@ -1,0 +1,202 @@
+/* ---- General Styles ---- */
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: "Avenir", "Helvetica Neue", "Arial", sans-serif;
+	font-weight: 400px;
+	background-color: #EFEFEF;
+	text-align: center;
+}
+
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 700px;
+	width: 100%;
+	background-image: url("img/IMG_3452.jpg");
+	background-size: cover;
+	border-top: 0px;
+}
+
+
+/* Hello text */
+.hello_title {
+	color: white;
+	text-align: center;
+	font-size: 100px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+.hello_subtitle {
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	margin-top: 0px;
+}
+
+.Me_1 {
+	width: 300px;
+	height: 400px;
+	float:left;
+	max-width: 50%;
+	margin-left: 15px;
+	margin-top: 100px;
+	border: 15px #ebd13b;
+	border-style: outset;
+}
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: #fce665;
+}
+
+.few_things_text {
+	color: white;
+	font-size: 30px;
+	text-align: center;
+	margin: 0;
+	padding: 25px;
+}
+.Hobbies {
+	font-size: 25px;
+	color:#515151;
+text-align: left;
+margin-left: 25px;
+line-height:0px;
+
+}
+.family {
+	width: 400px;
+	height: 550px;
+	border-style: outset;
+	border-color: #ebd13b;
+	border-width: 10px;
+	margin-bottom: auto;
+	margin-left:auto;
+
+
+
+}
+
+
+/* ---- Facts ---- */
+/* Main Text */
+.facts {
+	background-color: #EFEFEF;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.facts p {
+	text-align: center;
+	color: #515151;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 50px;
+
+	max-width: 760px;
+	margin: 80px auto 80px auto;
+	padding: 0 20px 0 20px;
+}
+
+/* Text Highlight Colour */
+.highlight {
+	color: #C32E28;
+	font-weight: 500;
+}
+
+/* Fact Links */
+.fact_link {
+	color: #C32E28;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 3px solid #C32E28;
+	padding: 0px 2px 0px 2px;
+}
+
+.fact_link:hover {
+	color: #EFEFEF;
+	background-color: #C32E28;
+	padding: 0px 2px 0px 2px;
+}
+
+/* Fact Picture */
+.fact_image {
+	max-width: 400px;
+	border: white solid 10px;
+
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+/* Public Figures List */
+.public_figures_list {
+	font-family: "Avenir", "Helvetica Neue", "Arial", sans-serif;
+	text-align: center;
+	color: #515151;
+	font-size: 40px;
+	font-weight: 300;
+	list-style-type: none;
+
+	padding: 0;
+	margin: 0;
+	padding-top: 20px;
+	margin-top: -80px;
+}
+
+.public_figures_list li {
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+
+/* --- Tell Me About You --- */
+.tell_me_section {
+	background-color: #515151;
+	width: 100%;
+}
+
+/* 'You've learned a little about me.' */
+.learned_text {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	max-width: 760px;
+	margin: 0 auto 0 auto;
+	padding: 80px 15px 15px;
+}
+
+/* 'Tell me about you' Box */
+.tell_me_link {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 100px;
+	padding-top: 30px;
+}
+
+.tell_me_link a {
+	color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.tell_me_link a:hover {
+	color: #515151;
+	background-color: white;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
