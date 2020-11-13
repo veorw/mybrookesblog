@@ -2,7 +2,7 @@
 layout: post
 title: When you wish upon a star
 date: 2020-10-19T13:46:21.824Z
-header_feature_image: ../uploads/stars.jpg
+header_feature_image: ../uploads/castel.jpg
 comments: true
 ---
 Brand is everything.
